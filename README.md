@@ -1,2 +1,2 @@
 # roiolsanRioBJJ
-Projeto site da Equipe RIOBJJ irá ao ar em breve!!
+Projeto site da Equipe RIOBJJ será  lan em breve!
