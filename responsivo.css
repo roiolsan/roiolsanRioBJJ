@@ -1,0 +1,17 @@
+    body {
+       background-image: linear-gradient(to right, rgb(244, 242, 242), rgba(157, 145, 145, 0.686));
+       position: relative;
+       justify-content: end;
+       padding: 10px;
+       max-width: 1440px;
+       margin: 0 auto;
+       
+    }
+
+    .container .botao-menu {
+        background-color: none;
+        position: relative;
+        
+    }
+
+    
